@@ -1,0 +1,1 @@
+# This is my first code in Ubuntu and pushed to my github using vscode and git
